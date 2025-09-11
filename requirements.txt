@@ -1,8 +1,0 @@
-flask
-gunicorn
-pdf2docx
-pandas
-openpyxl
-pdfplumber
-camelot-py[cv]
-tabula-py
